@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@keyframes colorGlow {
+
+    0%,
+    100% {
+        filter: drop-shadow(0 0 8px #06b6d4);
+    }
+
+    50% {
+        filter: drop-shadow(0 0 16px #3b82f6);
+    }
+}
+
+.animate-colorGlow {
+    animation: colorGlow 2s infinite ease-in-out;
+}
