@@ -46,13 +46,15 @@ function AboutUs() {
 
                 {/* Right Side - Content */}
                 <div className="w-full lg:w-1/2 text-gray-800">
-                    <p className="text-sm font-semibold uppercase text-green-600 mb-2 tracking-wider">আমাদের লক্ষ্য</p>
+                    <p className="text-xs font-medium uppercase text-green-600 mb-1 tracking-wider">
+                        আমাদের লক্ষ্য
+                    </p>
 
-                    <h1 className="text-4xl sm:text-5xl font-extrabold mb-8 text-cyan-800 flex items-start gap-3">
-                        {/* FaBullseye replaced with Target icon */}
-                        <Target className="text-cyan-600 w-8 h-8 flex-shrink-0 mt-1" />
+                    <h1 className="text-2xl sm:text-4xl font-bold mb-6 text-cyan-800 flex items-start gap-2">
+                        <Target className="text-cyan-600 w-6 h-6 flex-shrink-0 mt-1" />
                         আমাদের লক্ষ্য ও উদ্দেশ্য
                     </h1>
+
 
                     <p className="mb-8 leading-relaxed text-lg text-gray-700 border-l-4 border-cyan-500 pl-4 py-1">
                         বিশ্বব্যাপী কুরআনের আলো ছড়িয়ে দেওয়া। বিশেষ করে জেনারেল শিক্ষায় শিক্ষিত

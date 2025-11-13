@@ -16,7 +16,7 @@ function Ourservices() {
                 </h1>
 
                 <div className="flex justify-center mb-10">
-                    <span className="w-24 h-1 bg-amber-500 rounded-full"></span>
+                    <span className="w-154 h-1 bg-amber-500 rounded-full"></span>
                 </div>
 
                 {/* List Section */}
