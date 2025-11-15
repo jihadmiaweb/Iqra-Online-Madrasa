@@ -1,3 +1,4 @@
+import AboutMe from "../layout/pagas/about-me/aboutme";
 import Aboutonlinemardasa from "../layout/pagas/HomePags/AboutPage/Aboutonlinemardasa";
 import AboutPage from "../layout/pagas/HomePags/AboutPage/AboutPage";
 import AboutUs from "../layout/pagas/HomePags/AboutPage/Aboutus";
@@ -17,6 +18,7 @@ function Home() {
             <Aboutonlinemardasa />
             <CourseTimeline />
             <AllCourse />
+            <AboutMe />
         </>
     );
 }
