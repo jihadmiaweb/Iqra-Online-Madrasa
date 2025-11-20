@@ -7,7 +7,7 @@ function Hider() {
 
     const navLinks = [
         { path: "/", label: "হোম" },
-        { path: "/about", label: "আমাদের সম্পর্কে" },
+        { path: "/AboutpageAllItem", label: "আমাদের সম্পর্কে" },
         { path: "/products", label: "আমাদের কোর্স" },
         { path: "/contact", label: "যোগাযোগ" },
     ];
